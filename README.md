@@ -1,1 +1,3 @@
-# data_analysis
+# 모두의 데이터 분석 w/ python
+
+데이터 분석 책
